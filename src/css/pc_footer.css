@@ -1,0 +1,14 @@
+.left{
+    background-color: blue;
+    height: 100px;
+}
+.middle{
+    text-align: center;
+    /*font-size: 15px;*/
+    background-color: red;
+    height: 100px;
+}
+.right{
+    background-color: gold;
+    height: 100px;
+}
